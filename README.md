@@ -1,5 +1,12 @@
 # Embeddings Explorer
 
+> A visual playground and analysis tool for high-dimensional vector embeddings and semantic search.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 A small Python project for exploring word embeddings and semantic similarity with Gensim.
 
 ## Requirements
